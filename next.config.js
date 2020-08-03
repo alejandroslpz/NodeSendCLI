@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    backendURL: "http://node-send-back-aleeslpz.herokuapp.com",
-    frontendURL: "http://node-send-cli.vercel.app",
+    backendURL: "https://node-send-back-aleeslpz.herokuapp.com/",
+    frontendURL: "https://node-send-cli.vercel.app/",
   },
 };
